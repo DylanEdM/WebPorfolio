@@ -1,0 +1,21 @@
+<p>
+    I have previous industry experience in software development, this means I'm well equipped for creating software particularly in web devlopment.
+    Technologies, frameworks and products I know are:
+</p>
+<ul>
+    <li>REACT</li>
+    <li>Tailwinds CSS</li>
+    <li>Jenkins CI/CD</li>
+    <li>Azure</li>
+    <li>AWS</li>
+    <li>Docker</li>
+    <li>MongoDB</li>
+    <li>PostgreSQL</li>
+    <li>Python</li>
+    <li>C#</li>
+    <li>Atlassian suite</li>
+</ul>
+<p>
+    
+</p>
+
